@@ -1,0 +1,12 @@
+# Publish only the documentation, public media, and download mirror.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSES.md
+!/assets/
+!/downloads/
+
+.DS_Store
+._*
+Thumbs.db

@@ -1,0 +1,43 @@
+{
+  "version": "maker-20260916",
+  "date": "2026-09-16",
+  "scope": "制作物料、制作工具、镜像工作台源码；不包含官网或 App 源码",
+  "packages": [
+    {
+      "id": "maker-print",
+      "title": "制作物料与打印文件",
+      "description": "物料清单、中文分类打印件与装配图",
+      "filename": "maker-20260916/fanduck-materials-print-20260916.zip",
+      "size": "12.7 MB",
+      "bytes": 13352354,
+      "sha256": "2b7d8a340eb669aff2e026dad1bd5bb46ee8e53238cf0c4da0dbaad9346adfa0"
+    },
+    {
+      "id": "maker-boards",
+      "title": "板件制造资料",
+      "description": "HAT、触点板与 NFC 图纸及制造文件",
+      "filename": "maker-20260916/fanduck-boards-20260916.zip",
+      "size": "31.3 MB",
+      "bytes": 32801825,
+      "sha256": "2c7f23a354672eb332480325a9d687dbb5bc1ee65e9ca95646aedf39ff37c8ff"
+    },
+    {
+      "id": "maker-tools",
+      "title": "制作工具源码",
+      "description": "打印修正版生成、几何检查与必要输入",
+      "filename": "maker-20260916/fanduck-making-tools-20260916.zip",
+      "size": "1.1 MB",
+      "bytes": 1181370,
+      "sha256": "27fd53d3a5b0b8b486f6be609ad1b6b043694218b8029724598bf7417db31b21"
+    },
+    {
+      "id": "maker-mirror",
+      "title": "镜像工作台源码",
+      "description": "3D 姿态、只读关节采集与可选视频观察",
+      "filename": "maker-20260916/fanduck-mirror-workbench-20260916.zip",
+      "size": "2.6 MB",
+      "bytes": 2678602,
+      "sha256": "ea9316540308dd8a940702891efce54c91f71239e168555aa6ccca74256752b6"
+    }
+  ]
+}

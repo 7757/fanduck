@@ -1,0 +1,6 @@
+* text=auto eol=lf
+downloads/** -text
+*.webp binary
+*.png binary
+*.gif binary
+*.mp4 binary
