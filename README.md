@@ -1,5 +1,7 @@
 <p align="center"><strong>💬 Microduck 资源分享交流群</strong></p>
 
+<p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
+
 <p align="center">
   <a href="assets/wechat-group-qr.png">
     <img src="assets/wechat-group-qr.png" alt="微信扫码加入 Microduck 资源分享交流群，二维码于 9 月 23 日前有效" width="400" />
@@ -14,15 +16,11 @@
 
 > **基于官方项目完成复刻**：本项目基于 Pollen Robotics 官方公开的 [Microduck 代码](https://github.com/pollen-robotics/microduck) 与 [模型资料](https://github.com/pollen-robotics/microduck_rl) 制作。感谢官方团队的分享！
 
-**[Pollen Robotics · 官方 Microduck 项目](https://github.com/pollen-robotics/microduck)**
-
-**[访问我们的项目官网 → duck.fandcode.com](https://duck.fandcode.com/)**
+**[官方项目](https://github.com/pollen-robotics/microduck) · [官方官网](https://pollen-robotics.com/microduck/) · [我们的官网](https://duck.fandcode.com/)**
 
 **我们的 Microduck 已经复刻成功！** 从零件采购、3D 打印到装配与调试，我们完成了从 0 到 1 的实机复刻，下面的照片和视频就是这只鸭子的实拍。
 
 Fanduck 是对 Pollen Robotics Microduck 的非官方个人研究复刻。这里分享本次复刻所用的制作资料：物料清单、打印文件、板件资料、制作工具，以及查看鸭子 3D 姿态的镜像工作台。资料与项目官网同步存放，方便大家参考和交流。
-
-*We have successfully built our own Microduck replica. Fanduck is an unofficial personal research project; this repository shares the build materials, 3D-print files, board files, making tools, and 3D observation workbench used for the build.*
 
 ## 我们的鸭子
 
@@ -30,8 +28,6 @@ Fanduck 是对 Pollen Robotics Microduck 的非官方个人研究复刻。这里
   <img src="assets/fanduck.webp" alt="超能花钱鸭实拍：侧面结构与打印外壳" height="360" />
   <img src="assets/fanduck-back.webp" alt="超能花钱鸭实拍：背部电池与双腿装配" height="360" />
 </p>
-
-项目实机照片，摄于 2026 年 9 月。更多照片和制作记录见[项目官网](https://duck.fandcode.com/)。
 
 ## 实机演示
 
@@ -41,15 +37,11 @@ Fanduck 是对 Pollen Robotics Microduck 的非官方个人研究复刻。这里
   <img src="assets/fanduck-demo.gif" alt="超能花钱鸭实拍动态演示：约 12 秒循环 GIF" width="360" />
 </p>
 
-约 12 秒实拍循环演示。**[▶ 在官网观看原视频](https://duck.fandcode.com/#purpose)** · [下载视频 MP4](assets/fanduck-demo.mp4?raw=true)
-
 **实拍二**
 
 <p align="center">
   <img src="assets/fanduck-demo-02.gif" alt="超能花钱鸭第二段实机演示：约 19 秒循环 GIF" width="320" />
 </p>
-
-约 19 秒实拍循环演示，来自 `IMG_1829.mov`。[下载完整视频 MP4](assets/fanduck-demo-02.mp4?raw=true)
 
 ## 制作资料下载
 
