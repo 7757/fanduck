@@ -3,12 +3,12 @@
 <p align="center"><a href="README.md">简体中文</a> · <strong>English</strong></p>
 
 <p align="center">
-  <a href="assets/wechat-group-qr.png">
-    <img src="assets/wechat-group-qr.png" alt="Scan with WeChat to join the Microduck Resources community" width="400" />
+  <a href="assets/wechat-group-qr-20260922.png">
+    <img src="assets/wechat-group-qr-20260922.png" alt="Scan with WeChat to join the Microduck Resources community" width="400" />
   </a>
 </p>
 
-<p align="center">Scan with WeChat to share build experiences and resources. Click the QR code to view the full-size image.<br />Current QR code: <strong>valid before September 23, 2026</strong>.</p>
+<p align="center">Scan with WeChat to share build experiences and resources. Click the QR code to view the full-size image.<br />Current QR code: <strong>valid before September 29, 2026</strong>.</p>
 
 ---
 
