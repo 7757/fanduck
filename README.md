@@ -1,16 +1,4 @@
-<p align="center"><strong>💬 Microduck 资源分享交流群</strong></p>
-
 <p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
-
-<p align="center">
-  <a href="assets/wechat-group-qr-20260922.png">
-    <img src="assets/wechat-group-qr-20260922.png" alt="微信扫码加入 Microduck 资源分享交流群，二维码于 9 月 29 日前有效" width="400" />
-  </a>
-</p>
-
-<p align="center">微信扫码入群，一起交流复刻与制作。点击二维码可查看原图。<br />当前二维码：<strong>2026 年 9 月 29 日前有效</strong>。</p>
-
----
 
 # 超能花钱鸭 Fanduck · Microduck 已复刻成功
 
