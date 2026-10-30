@@ -1,0 +1,27 @@
+{
+  "version": "dchub-v1.1-20261030",
+  "design_revision": "v1.1",
+  "date": "2026-10-30",
+  "source": "hardware/dchub-v1.1",
+  "classification": "unofficial project design; physical validation pending",
+  "packages": [
+    {
+      "id": "dchub-design",
+      "title": "DCHUB v1.1 设计图与制造包",
+      "description": "KiCad 源文件、PCB 图、Gerber 与 BOM",
+      "filename": "dchub-v1.1-20261030/fanduck-dchub-v1.1-design.zip",
+      "size": "1.5 MB",
+      "bytes": 1570690,
+      "sha256": "e1208366033a32448d977d5370b7e99c24ed1fe9763823707cc8824bf28c95da"
+    },
+    {
+      "id": "dchub-schematic",
+      "title": "DCHUB v1.1 原理图",
+      "description": "原理图 PDF，可直接查看",
+      "filename": "dchub-v1.1-20261030/fanduck-dchub-v1.1-schematic.pdf",
+      "size": "94 KB",
+      "bytes": 96255,
+      "sha256": "05b798e937acd131e325c49220d57c2120b257d2500029fe8e175d21072cc2aa"
+    }
+  ]
+}

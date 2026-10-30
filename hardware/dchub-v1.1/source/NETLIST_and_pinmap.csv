@@ -1,0 +1,4 @@
+﻿Net,Connected pins,Purpose,Validation status
+GND,"J1.1,J2.1,J3.1,J4.1,J5.1,C1.2",Battery return / signal reference,Official HAT/X3P mapping; assembled board not yet continuity-tested
+VBATT,"J1.2,J2.2,J3.2,J4.2,J5.2,C1.1",Unregulated battery rail,Topology requested by owner; voltage/load safety not validated
+DATA,"J1.3,J2.3,J3.3,J4.3",Shared half-duplex Dynamixel TTL data,Official HAT/X3P mapping; star branch behavior not yet tested

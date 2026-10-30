@@ -1,0 +1,56 @@
+PCB statistics report
+=====================
+- Date: Tuesday, September 29, 2026 at 09:58:18 PM
+- Project: dchub_4port_strip_v1_1
+- Board name: dchub_4port_strip_v1_1
+
+Board
+-----
+- Width: 43.0000 mm
+- Height: 13.0000 mm
+- Area: 557.067 mm²
+- Front copper area: 567.082 mm²
+- Back copper area: 573.523 mm²
+- Min track clearance: 2.9273 mm
+- Min track width: 0.5000 mm
+- Min drill diameter: 0.9000 mm
+- Board stackup thickness: 1.6000 mm
+
+- Front footprint area: 353.89 mm²
+- Back footprint area: 80.182 mm²
+- Front component density: 63.53 %
+- Back component density: 14.39 %
+Pads
+----
+- Through hole: 16
+- SMD: 0
+- Connector: 0
+- NPTH: 0
+- Castellated: 0
+- Press-fit: 0
+
+Vias
+----
+- Through vias: 0
+- Blind vias: 0
+- Buried vias: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          6 |         0 |     6 |
+|SMD:          |          0 |         0 |     0 |
+|Unspecified:  |          0 |         0 |     0 |
+|Total:        |          6 |         0 |     6 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    12 | Round | 0.9500 mm | 0.9500 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 1.4000 mm | 1.4000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 0.9000 mm | 0.9000 mm |    PTH |     Pad |        F.Cu |       B.Cu |

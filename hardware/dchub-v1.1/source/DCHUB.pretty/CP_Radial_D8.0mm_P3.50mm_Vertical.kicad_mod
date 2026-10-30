@@ -1,0 +1,29 @@
+(footprint "CP_Radial_D8.0mm_P3.50mm_Vertical"
+  (version 20260206)
+  (generator "pcbnew")
+  (layer "F.Cu")
+  (descr "Polarized radial electrolytic, 8 mm diameter, 3.50 mm lead pitch")
+  (tags "470uF 16V low impedance radial electrolytic")
+  (property "Reference" "REF**" (at 1.75 -5.25 0) (layer "F.SilkS") (effects
+      (font
+        (size 0.8 0.8)
+        (thickness 0.12)
+      )
+    ))
+  (property "Value" "470uF 16V" (at 1.75 5.25 0) (layer "F.Fab") (effects
+      (font
+        (size 0.8 0.8)
+        (thickness 0.12)
+      )
+    ))
+  (attr through_hole)
+  (duplicate_pad_numbers_are_jumpers no)
+  (fp_circle (center 0 1.75) (end 4.08 1.75) (stroke (width 0.12) (type solid)) (fill no) (layer "F.SilkS"))
+  (fp_circle (center 0 1.75) (end 4.25 1.75) (stroke (width 0.05) (type solid)) (fill no) (layer "F.CrtYd"))
+  (fp_circle (center 0 1.75) (end 4 1.75) (stroke (width 0.1) (type solid)) (fill no) (layer "F.Fab"))
+  (pad "1" thru_hole rect (at 0 0) (size 2.2 2.2) (drill 0.9) (layers "*.Cu" "*.Mask"))
+  (pad "2" thru_hole circle (at 0 3.5) (size 2.2 2.2) (drill 0.9) (layers "*.Cu" "*.Mask"))
+  (embedded_fonts no)
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.step"
+    (offset (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 90)))
+)

@@ -1,5 +1,8 @@
 * text=auto eol=lf
 downloads/** -text
+hardware/dchub-v1.1/** -text
+hardware/dchub-v1.1/review/*.svg -whitespace
+hardware/dchub-v1.1/source/*.csv whitespace=cr-at-eol
 *.webp binary
 *.png binary
 *.gif binary

@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC Part #,Manufacturer,Manufacturer Part Number,Quantity per PCB,Assembly Type
+"B3B-EH-A(LF)(SN)","J1,J2,J3,J4","DCHUB:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical_Rot90","C160259","JST","B3B-EH-A(LF)(SN)",4,"THT"
+"KF301-5.0-2P","J5","DCHUB:KF301-5.0-2P","C474881","KEFA","KF301-5.0-2P",1,"THT"
+"470uF 16V","C1","DCHUB:CP_Radial_D8.0mm_P3.50mm_Vertical","C109066","Rubycon","16ZLH470MEFC8X11.5",1,"THT polarized"

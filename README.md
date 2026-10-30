@@ -31,6 +31,10 @@ Fanduck 是对 Pollen Robotics Microduck 的非官方个人研究复刻。这里
   <img src="assets/fanduck-demo-02.gif" alt="超能花钱鸭第二段实机演示：约 19 秒循环 GIF" width="320" />
 </p>
 
+## 在线文档
+
+[在线配件清单（腾讯文档）](https://docs.qq.com/sheet/DT0hMTFJIUktwa1hM?no_promotion=1&is_blank_or_template=blank&tab=BB08J2)：全部配件与采购链接，与官网入口一致。
+
 ## 制作资料下载
 
 当前资料版本：`maker-20260916`。以下 4 个 ZIP 与官网发布目录中的文件完全一致。
@@ -50,6 +54,14 @@ Fanduck 是对 Pollen Robotics Microduck 的非官方个人研究复刻。这里
 cd downloads/maker-20260916
 shasum -a 256 -c SHA256SUMS.txt
 ```
+
+## DCHUB 设计图
+
+DCHUB v1.1 四口长条分线板（43 × 13 mm），含 KiCad 源文件、PCB 图、Gerber、BOM 和 3D 预览。
+
+[浏览图纸与说明](hardware/dchub-v1.1/) · [下载完整设计包](downloads/dchub-v1.1-20261030/fanduck-dchub-v1.1-design.zip?raw=true) · [原理图 PDF](downloads/dchub-v1.1-20261030/fanduck-dchub-v1.1-schematic.pdf) · [SHA-256](downloads/dchub-v1.1-20261030/SHA256SUMS.txt) · [官网下载](https://duck.fandcode.com/#downloads)
+
+本项目衍生设计，非官方 1:1 板；无稳压与保护电路，实物负载及 IMU 接线待验证。使用边界见[设计说明](hardware/dchub-v1.1/README.md)。
 
 ## 来源与许可
 

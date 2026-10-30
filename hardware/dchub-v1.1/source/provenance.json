@@ -1,0 +1,57 @@
+{
+  "design": {
+    "name": "Microduck DCHUB passive 4-port long-strip distribution board",
+    "revision": "v1.1",
+    "date_checked": "2026-09-29",
+    "classification": "third-party derivative / clean redraw; not Pollen Robotics official 1:1 hardware",
+    "intended_use": "personal research prototype",
+    "layout": "43 x 13 mm rounded strip; four X3P connectors aligned in one row; all component body centres aligned to the horizontal board centreline; capacitor and battery terminal at right end; bottom silkscreen YIFAN DESGIN",
+    "supersedes": "v1.0 compact-rectangle layout"
+  },
+  "shared_reference": {
+    "filename": "DCHUB.epro2",
+    "sha256": "7fa3b8d95bd28132a5d79e760152fdbeb742817f78035539827c2e2595d82c63",
+    "size_bytes": 130142,
+    "classification": "third-party",
+    "license": "unknown",
+    "use": "topology reference only; original file is not redistributed in this package"
+  },
+  "official_sources": [
+    {
+      "name": "pollen-robotics/elec_RPI_Robot_HAT",
+      "url": "https://github.com/pollen-robotics/elec_RPI_Robot_HAT.git",
+      "commit": "23eab11927f95ceca0dfa35bf182caeb7db39ea0",
+      "local_path": "sources/official/elec_RPI_Robot_HAT/dynamixel.kicad_sch",
+      "classification": "official",
+      "license": "Apache-2.0",
+      "use": "B3B-EH-A usage and J13/J14 power pin mapping"
+    },
+    {
+      "name": "ROBOTIS DYNAMIXEL e-Manual",
+      "url": "https://emanual.robotis.com/docs/en/dxl/x/xc330-m288/",
+      "classification": "manufacturer",
+      "use": "TTL X3P pinout and XL330 family public voltage range"
+    },
+    {
+      "name": "JST EH series",
+      "url": "https://www.jst-mfg.com/product/index.php?lang=2&series=58",
+      "classification": "manufacturer",
+      "use": "B3B-EH-A connector geometry and rating"
+    },
+    {
+      "name": "Panasonic EEU-FR1C471",
+      "url": "https://industrial.panasonic.com/ww/products/pt/aluminum-cap-lead/models/EEUFR1C471",
+      "datasheet": "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1259.pdf",
+      "classification": "manufacturer",
+      "use": "470 uF / 16 V capacitor dimensions and ratings"
+    }
+  ],
+  "known_unverified_items": [
+    "latest dual-port IMU connector equivalence, pinout, voltage and selected socket",
+    "exact KF301-5.0-2P supplier body dimensions and current rating",
+    "assembled-board continuity and polarity",
+    "full-robot current, connector temperature rise and final fuse rating",
+    "mechanical mounting method and enclosure clearance",
+    "three-branch TTL signal integrity with production harness lengths"
+  ]
+}

@@ -31,6 +31,10 @@ Fanduck is an unofficial personal research replication of Pollen Robotics Microd
   <img src="assets/fanduck-demo-02.gif" alt="Second demonstration of our real Fanduck robot" width="320" />
 </p>
 
+## Online documentation
+
+[Online parts list (Tencent Docs, Chinese)](https://docs.qq.com/sheet/DT0hMTFJIUktwa1hM?no_promotion=1&is_blank_or_template=blank&tab=BB08J2): parts and purchase links, shared with our website.
+
 ## Build Resources
 
 Current resource version: `maker-20260916`. These four ZIP files are identical to the files in our website's release directory.
@@ -50,6 +54,14 @@ See [manifest.json](downloads/maker-20260916/manifest.json) for the download man
 cd downloads/maker-20260916
 shasum -a 256 -c SHA256SUMS.txt
 ```
+
+## DCHUB design files
+
+DCHUB v1.1 is a 43 × 13 mm passive four-port distribution board. The release includes KiCad sources, PCB drawings, Gerbers, BOMs, and 3D previews.
+
+[Browse files and notes](hardware/dchub-v1.1/) · [Complete design ZIP](downloads/dchub-v1.1-20261030/fanduck-dchub-v1.1-design.zip?raw=true) · [Schematic PDF](downloads/dchub-v1.1-20261030/fanduck-dchub-v1.1-schematic.pdf) · [SHA-256](downloads/dchub-v1.1-20261030/SHA256SUMS.txt) · [Website downloads](https://duck.fandcode.com/#downloads)
+
+This is an unofficial project derivative. It has no voltage regulation or protection circuit; physical load tests and IMU wiring remain unverified. Read the [design notes (Chinese)](hardware/dchub-v1.1/README.md) before use.
 
 ## Sources and Licenses
 
